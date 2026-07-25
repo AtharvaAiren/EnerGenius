@@ -1,4 +1,20 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .DS_Store
-q_table.json
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+ino files/**/secrets.h
+data/real_room/source/
+reports/*
+!reports/README.md
+!reports/real_room/
+!reports/real_room/**

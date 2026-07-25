@@ -1,0 +1,15 @@
+{
+  "title": "Room-level occupant counts and environmental quality from heterogeneous sensing modalities in a smart building",
+  "dataset_doi": "https://doi.org/10.6084/m9.figshare.9959417.v1",
+  "paper_doi": "https://doi.org/10.1038/s41597-019-0274-4",
+  "license": "CC0",
+  "source_archive_url": "https://ndownloader.figshare.com/files/17938001",
+  "source_archive_md5": "3466bca7aae4c8f1118731dbdf162110",
+  "normalized_records": 190080,
+  "rooms": 3,
+  "day_ids": 44,
+  "sampling_minutes": 1,
+  "source_variant": "filleddata (forward/backward-filled by dataset authors)",
+  "created_utc": "2026-07-25T05:20:29.771878+00:00",
+  "causal_limit": "VAV damper position is the only logged control input. The dataset does not contain physical fan PWM, LED PWM, device energy, or comfort votes."
+}
